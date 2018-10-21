@@ -1,0 +1,11 @@
+C:\Projects\EFCore\EFCoreEjemplos\EFCoreEjemplos\bin\Debug\netcoreapp2.1\EFCoreEjemplos.deps.json
+C:\Projects\EFCore\EFCoreEjemplos\EFCoreEjemplos\bin\Debug\netcoreapp2.1\EFCoreEjemplos.runtimeconfig.json
+C:\Projects\EFCore\EFCoreEjemplos\EFCoreEjemplos\bin\Debug\netcoreapp2.1\EFCoreEjemplos.runtimeconfig.dev.json
+C:\Projects\EFCore\EFCoreEjemplos\EFCoreEjemplos\bin\Debug\netcoreapp2.1\EFCoreEjemplos.dll
+C:\Projects\EFCore\EFCoreEjemplos\EFCoreEjemplos\obj\Debug\netcoreapp2.1\EFCoreEjemplos.csprojAssemblyReference.cache
+C:\Projects\EFCore\EFCoreEjemplos\EFCoreEjemplos\obj\Debug\netcoreapp2.1\EFCoreEjemplos.csproj.CoreCompileInputs.cache
+C:\Projects\EFCore\EFCoreEjemplos\EFCoreEjemplos\obj\Debug\netcoreapp2.1\EFCoreEjemplos.AssemblyInfoInputs.cache
+C:\Projects\EFCore\EFCoreEjemplos\EFCoreEjemplos\obj\Debug\netcoreapp2.1\EFCoreEjemplos.AssemblyInfo.cs
+C:\Projects\EFCore\EFCoreEjemplos\EFCoreEjemplos\bin\Debug\netcoreapp2.1\EFCoreEjemplos.pdb
+C:\Projects\EFCore\EFCoreEjemplos\EFCoreEjemplos\obj\Debug\netcoreapp2.1\EFCoreEjemplos.dll
+C:\Projects\EFCore\EFCoreEjemplos\EFCoreEjemplos\obj\Debug\netcoreapp2.1\EFCoreEjemplos.pdb
